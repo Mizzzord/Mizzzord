@@ -8,7 +8,7 @@
 
 I build AI tools, automation and interfaces. I like connecting language models to practical work: data, applications and CAD.
 
-[FreeCAD MCP](#freecad-mcp) · [S2K Studio](#s2k-studio) · [Telegram](https://t.me/stp_des)
+[Renamorph](#renamorph) · [FreeCAD MCP](#freecad-mcp) · [S2K Studio](#s2k-studio) · [Telegram](https://t.me/stp_des)
 
 </div>
 
@@ -18,15 +18,28 @@ I build AI tools, automation and interfaces. I like connecting language models t
 
 My interests meet at **AI, development and design**. I work with Python, JavaScript and TypeScript, exploring local models and MCP integrations. I am part of **S2K Studio**, a digital product studio based in Nizhny Novgorod.
 
-`Python` · `TypeScript` · `JavaScript` · `MCP` · `Local LLMs` · `UI/UX`
+`Swift` · `Python` · `TypeScript` · `JavaScript` · `MCP` · `Local LLMs` · `UI/UX`
 
 ## Choose your path
 
 | Looking for… | Start here |
 | --- | --- |
+| Convert files on Mac by renaming | [Renamorph](#renamorph) |
 | AI-assisted CAD workflows | [FreeCAD MCP](#freecad-mcp) |
 | A digital product conversation | [S2K Studio](#s2k-studio) |
 | A look under the hood | Expand the section below |
+
+## Renamorph
+
+A macOS menu bar utility: changing an extension requests local conversion with content detection, original backups and Undo.
+
+![Renamorph](https://raw.githubusercontent.com/Mizzzord/Renamorph/main/docs/assets/banner.svg)
+
+[Download for macOS](https://github.com/Mizzzord/Renamorph/releases) · [Repository](https://github.com/Mizzzord/Renamorph) · [English README](https://github.com/Mizzzord/Renamorph/blob/main/README.en.md)
+
+**29 formats · 264 routes.** Images, audio, video and subtitles. The current preview is tested on macOS 27 / Apple Silicon / local APFS; ad-hoc signed, not notarized.
+
+[![Renamorph stars](https://img.shields.io/github/stars/Mizzzord/Renamorph?style=flat-square&color=139c97)](https://github.com/Mizzzord/Renamorph/stargazers) [![Renamorph downloads](https://img.shields.io/github/downloads/Mizzzord/Renamorph/total?style=flat-square&color=139c97)](https://github.com/Mizzzord/Renamorph/releases)
 
 ## FreeCAD MCP
 

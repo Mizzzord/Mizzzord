@@ -8,7 +8,7 @@
 
 Создаю AI-инструменты, автоматизацию и интерфейсы. Мне интересно соединять языковые модели с реальной работой: данными, приложениями и CAD.
 
-[FreeCAD MCP](#freecad-mcp) · [S2K Studio](#s2k-studio) · [Telegram](https://t.me/stp_des)
+[Renamorph](#renamorph) · [FreeCAD MCP](#freecad-mcp) · [S2K Studio](#s2k-studio) · [Telegram](https://t.me/stp_des)
 
 </div>
 
@@ -18,15 +18,28 @@
 
 Здесь пересекаются три интереса: **AI, разработка и дизайн**. Работаю с Python, JavaScript и TypeScript; исследую локальные модели и MCP-интеграции. Участвую в работе **S2K Studio** — студии цифровых продуктов из Нижнего Новгорода.
 
-`Python` · `TypeScript` · `JavaScript` · `MCP` · `Local LLMs` · `UI/UX`
+`Swift` · `Python` · `TypeScript` · `JavaScript` · `MCP` · `Local LLMs` · `UI/UX`
 
 ## Выбери, что тебе интересно
 
 | Хочешь… | Начни здесь |
 | --- | --- |
+| Конвертировать файлы на Mac переименованием | [Renamorph](#renamorph) |
 | Управлять CAD через AI | [FreeCAD MCP](#freecad-mcp) |
 | Обсудить цифровой продукт | [S2K Studio](#s2k-studio) |
 | Заглянуть под капот | Раскрой раздел ниже |
+
+## Renamorph
+
+Утилита строки меню macOS: изменение расширения запускает локальную конвертацию с определением содержимого, резервом оригинала и Undo.
+
+![Renamorph](https://raw.githubusercontent.com/Mizzzord/Renamorph/main/docs/assets/banner.svg)
+
+[Скачать для macOS](https://github.com/Mizzzord/Renamorph/releases) · [Репозиторий](https://github.com/Mizzzord/Renamorph) · [Матрица форматов](https://github.com/Mizzzord/Renamorph/blob/main/docs/FORMATS.md)
+
+**29 форматов · 264 направления.** Изображения, аудио, видео и субтитры. Текущий предварительный выпуск проверен на macOS 27 / Apple Silicon / локальном APFS; сборка ad-hoc, без нотарификации.
+
+[![Renamorph stars](https://img.shields.io/github/stars/Mizzzord/Renamorph?style=flat-square&color=139c97)](https://github.com/Mizzzord/Renamorph/stargazers) [![Renamorph downloads](https://img.shields.io/github/downloads/Mizzzord/Renamorph/total?style=flat-square&color=139c97)](https://github.com/Mizzzord/Renamorph/releases)
 
 ## FreeCAD MCP
 

@@ -8,7 +8,7 @@
 
 Creo herramientas de IA, automatizaciones e interfaces. Me interesa conectar los modelos de lenguaje con tareas concretas: datos, aplicaciones y CAD.
 
-[FreeCAD MCP](#freecad-mcp) · [S2K Studio](#s2k-studio) · [Telegram](https://t.me/stp_des)
+[Renamorph](#renamorph) · [FreeCAD MCP](#freecad-mcp) · [S2K Studio](#s2k-studio) · [Telegram](https://t.me/stp_des)
 
 </div>
 
@@ -18,15 +18,28 @@ Creo herramientas de IA, automatizaciones e interfaces. Me interesa conectar los
 
 Mis intereses se encuentran en la **IA, el desarrollo y el diseño**. Trabajo con Python, JavaScript y TypeScript, y exploro modelos locales e integraciones MCP. Formo parte de **S2K Studio**, un estudio de productos digitales de Nizhni Nóvgorod.
 
-`Python` · `TypeScript` · `JavaScript` · `MCP` · `Local LLMs` · `UI/UX`
+`Swift` · `Python` · `TypeScript` · `JavaScript` · `MCP` · `Local LLMs` · `UI/UX`
 
 ## Elige tu camino
 
 | ¿Te interesa…? | Empieza aquí |
 | --- | --- |
+| Convertir archivos en Mac cambiando la extensión | [Renamorph](#renamorph) |
 | Trabajar con CAD mediante IA | [FreeCAD MCP](#freecad-mcp) |
 | Hablar sobre un producto digital | [S2K Studio](#s2k-studio) |
 | Ver cómo funciona | Abre la sección siguiente |
+
+## Renamorph
+
+Una utilidad de la barra de menús de macOS: cambiar la extensión solicita una conversión local con detección del contenido, copia del original y función Deshacer.
+
+![Renamorph](https://raw.githubusercontent.com/Mizzzord/Renamorph/main/docs/assets/banner.svg)
+
+[Descargar para macOS](https://github.com/Mizzzord/Renamorph/releases) · [Repositorio](https://github.com/Mizzzord/Renamorph) · [README en español](https://github.com/Mizzzord/Renamorph/blob/main/README.es.md)
+
+**29 formatos · 264 rutas.** Imágenes, audio, vídeo y subtítulos. La versión preliminar está comprobada en macOS 27 / Apple Silicon / APFS local; firma ad-hoc, sin notarización.
+
+[![Renamorph stars](https://img.shields.io/github/stars/Mizzzord/Renamorph?style=flat-square&color=139c97)](https://github.com/Mizzzord/Renamorph/stargazers) [![Renamorph downloads](https://img.shields.io/github/downloads/Mizzzord/Renamorph/total?style=flat-square&color=139c97)](https://github.com/Mizzzord/Renamorph/releases)
 
 ## FreeCAD MCP
 

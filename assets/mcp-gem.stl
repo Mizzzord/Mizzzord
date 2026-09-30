@@ -1,0 +1,58 @@
+solid mcp_gem
+  facet normal 0.609208 0.609208 0.507673
+    outer loop
+      vertex 0 0 24
+      vertex 20 0 0
+      vertex 0 20 0
+    endloop
+  endfacet
+  facet normal -0.609208 0.609208 0.507673
+    outer loop
+      vertex 0 0 24
+      vertex 0 20 0
+      vertex -20 0 0
+    endloop
+  endfacet
+  facet normal -0.609208 -0.609208 0.507673
+    outer loop
+      vertex 0 0 24
+      vertex -20 0 0
+      vertex 0 -20 0
+    endloop
+  endfacet
+  facet normal 0.609208 -0.609208 0.507673
+    outer loop
+      vertex 0 0 24
+      vertex 0 -20 0
+      vertex 20 0 0
+    endloop
+  endfacet
+  facet normal 0.609208 0.609208 -0.507673
+    outer loop
+      vertex 0 0 -24
+      vertex 0 20 0
+      vertex 20 0 0
+    endloop
+  endfacet
+  facet normal -0.609208 0.609208 -0.507673
+    outer loop
+      vertex 0 0 -24
+      vertex -20 0 0
+      vertex 0 20 0
+    endloop
+  endfacet
+  facet normal -0.609208 -0.609208 -0.507673
+    outer loop
+      vertex 0 0 -24
+      vertex 0 -20 0
+      vertex -20 0 0
+    endloop
+  endfacet
+  facet normal 0.609208 -0.609208 -0.507673
+    outer loop
+      vertex 0 0 -24
+      vertex 20 0 0
+      vertex 0 -20 0
+    endloop
+  endfacet
+endsolid mcp_gem
